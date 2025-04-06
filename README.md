@@ -21,9 +21,21 @@ Projekt powstał w celach edukacyjnych – jako ćwiczenie programowania obiekto
 - IntelliJ IDEA
 
 ## 📁 Struktura projektu
-
-chess/ ├── Main.java ├── gui/ │ ├── BoardPanel.java  │ └── TilePanel.java └── pieces/ ├── Figure.java ├── Krol.java ├── Hetman.java ├── Goniec.java ├── Skoczek.java ├── Wieza.java └── Pion.java
-
+```
+src/
+├─ main/
+│  ├─ Main.java
+├─ pieces/
+│  ├─ Hetman.java
+│  ├─ Figure.java
+│  ├─ Goniec.java
+│  ├─ Skoczek.java
+│  ├─ Krol.java
+│  ├─ Wieza.java
+├─ gui/
+│  ├─ TilePanel.java
+│  ├─ BoardPanel.java
+```
 ## 🚀 Uruchamianie
 
 1. Sklonuj repozytorium:
