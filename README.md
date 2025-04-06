@@ -40,8 +40,8 @@ src/
 
 1. Sklonuj repozytorium:
    ```bash
-   git clone https://github.com/TWOJA_NAZWA_UZYTKOWNIKA/chess.git
-2. Otwórz projekt w IntelliJ IDEA
+   git clone https://github.com/GorylDev/Chess-Game.git
+2. Otwórz projekt w IntelliJ IDEA lub innym IDE
 
 3. Uruchom klasę Main.java
 
