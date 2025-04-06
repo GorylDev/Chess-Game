@@ -22,7 +22,7 @@ Projekt powstał w celach edukacyjnych – jako ćwiczenie programowania obiekto
 
 ## 📁 Struktura projektu
 
-chess/ ├── Main.java ├── gui/ │ ├── BoardPanel.java │ └── TilePanel.java └── pieces/ ├── Figure.java ├── Krol.java ├── Hetman.java ├── Goniec.java ├── Skoczek.java ├── Wieza.java └── Pion.java
+chess/ ├── Main.java ├── gui/ │ ├── BoardPanel.java  │ └── TilePanel.java └── pieces/ ├── Figure.java ├── Krol.java ├── Hetman.java ├── Goniec.java ├── Skoczek.java ├── Wieza.java └── Pion.java
 
 ## 🚀 Uruchamianie
 
