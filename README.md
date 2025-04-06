@@ -24,7 +24,6 @@ Projekt powstał w celach edukacyjnych – jako ćwiczenie programowania obiekto
 
 chess/ ├── Main.java ├── gui/ │ ├── BoardPanel.java │ └── TilePanel.java └── pieces/ ├── Figure.java ├── Krol.java ├── Hetman.java ├── Goniec.java ├── Skoczek.java ├── Wieza.java └── Pion.java
 
-
 ## 🚀 Uruchamianie
 
 1. Sklonuj repozytorium:
@@ -34,7 +33,5 @@ chess/ ├── Main.java ├── gui/ │ ├── BoardPanel.java │ └�
 
 3. Uruchom klasę Main.java
 
-✍️ Autor
-Projekt tworzony przez studenta 2. roku informatyki – do nauki, rozwoju i frajdy z kodowania 💻
-
-⭐ Jeśli podoba Ci się projekt – zostaw ⭐ na GitHubie!
+## ✍️ Autor
+Projekt tworzony przez studenta 2. roku informatyki do nauki i rozwoju wlasnych umiejetnosci
